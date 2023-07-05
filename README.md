@@ -1,6 +1,6 @@
-BOOTSITE
+AIWEB
 
-Bootsite was successfully created with Html and css
+Aiweb was successfully created with Html and css
 
 Developed by Femi Okunlade
 
